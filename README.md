@@ -1,1 +1,2 @@
 # hello-world
+Meu nome é Cesar, tenho 40 anos, estou aprendendo sobre developers. Tudo começou com uma simples inscrição no site mercado pago, recebi o e-mail para participar de uma live onde nos foram apresentados o novo checkout pro e os conteúdos para o exame Developer. Estou gostando de aprender, nunca tive contato com esse tipo de assunto, espero continuar, pois é uma atividade sem rotina, sempre teremos novidades.
